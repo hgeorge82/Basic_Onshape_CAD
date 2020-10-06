@@ -72,7 +72,7 @@ This assignment was to create a tire. The dimensions of this tire was 20x80 and 
 ### Evidence
 [My onshape tire](https://cad.onshape.com/documents/0e82917ac965ed0d68ab9d06/w/4e2aa4134adcf4b6522a6531/e/25ebcd94540d37aa032a7b9d)
 ### Image
-<img src="Images/Tire.png" width="200"
+<img src="Images/Tire.png" width="200">
 ### Reflection
 I learned how to draw out the dimensions for the tire.
 ---
