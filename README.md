@@ -70,9 +70,9 @@ I learned about the mirror tool. It was cool how you could just duplicate the sa
 ### Description
 This assignment was to create a tire. The dimensions of this tire was 20x80 and 20x110 and it was 10 away from the origin.
 ### Evidence
-https://cad.onshape.com/documents/0e82917ac965ed0d68ab9d06/w/4e2aa4134adcf4b6522a6531/e/25ebcd94540d37aa032a7b9d
+[My onshape tire](https://cad.onshape.com/documents/0e82917ac965ed0d68ab9d06/w/4e2aa4134adcf4b6522a6531/e/25ebcd94540d37aa032a7b9d)
 ### Image
-
+<img src="Images/Tire.png" width="200"
 ### Reflection
 I learned how to draw out the dimensions for the tire.
 ---
