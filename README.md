@@ -46,20 +46,21 @@ This assignment was to create a mount. The mounts dimensions are 120x120mm.It al
 https://cad.onshape.com/documents/dba4cd6e5ea83b6b0ec5104c/w/5ba62e2972ce409275a7e32d/e/c1015ed57171b2af8d30da36
 ### Image
 
-### Reflection
-
+### Reflection 
+I learned more shortcuts
 ---
 
 
 ## Fork
 
 ### Description
-
+The next assignment was to create a fork. The circle part was 80mm in diameter. There were two arms with 15mm fillets. There's a 10mm hole in both arms. Then a base was added that was 15x20 mm.
 ### Evidence
-
+https://cad.onshape.com/documents/751d72c513828806f933883e/w/ee5666385dd77c88016a3b2f/e/753386aab24835b4dabf5350
 ### Image
 
 ### Reflection
+I learned about the mirror tool. It was cool how you could just duplicate the same part on the other side.
 
 ---
 
@@ -67,13 +68,13 @@ https://cad.onshape.com/documents/dba4cd6e5ea83b6b0ec5104c/w/5ba62e2972ce409275a
 ## Tire
 
 ### Description
-
+This assignment was to create a tire. The dimensions of this tire was 20x80 and 20x110 and it was 10 away from the origin.
 ### Evidence
-
+https://cad.onshape.com/documents/0e82917ac965ed0d68ab9d06/w/4e2aa4134adcf4b6522a6531/e/25ebcd94540d37aa032a7b9d
 ### Image
 
 ### Reflection
-
+I learned how to draw out the dimensions for the tire.
 ---
 
 
