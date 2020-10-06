@@ -56,9 +56,9 @@ I learned more shortcuts
 ### Description
 The next assignment was to create a fork. The circle part was 80mm in diameter. There were two arms with 15mm fillets. There's a 10mm hole in both arms. Then a base was added that was 15x20 mm.
 ### Evidence
-https://cad.onshape.com/documents/751d72c513828806f933883e/w/ee5666385dd77c88016a3b2f/e/753386aab24835b4dabf5350
+[My onshape fork](https://cad.onshape.com/documents/751d72c513828806f933883e/w/ee5666385dd77c88016a3b2f/e/753386aab24835b4dabf5350)
 ### Image
-
+<img src="Images/Fork.png.png" width="200">
 ### Reflection
 I learned about the mirror tool. It was cool how you could just duplicate the same part on the other side.
 
