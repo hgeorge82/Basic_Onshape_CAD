@@ -81,12 +81,13 @@ I learned how to draw out the dimensions for the tire.
 ## Wheel
 
 ### Description
-
+I made a wheel. The outside os it measured 80mm and the inside measure both 25mm and 10mm.
 ### Evidence
-
+[My onshape wheel](https://cad.onshape.com/documents/3333dbd5b50e13088eb43dfe/w/973b4241ddf20bbb4a17d47e/e/608ec84aeb689e108126585c)
 ### Image
-
+<img src="Images/Wheel.png" width="200">
 ### Reflection
+I learned how to make a crcular pattern.
 
 ---
 
