@@ -95,11 +95,12 @@ I learned how to make a crcular pattern.
 ## AxleCollarBearings
 
 ### Description
-
+I made an Axle and a Collar.
 ### Evidence
-
+[My axle thing](https://cad.onshape.com/documents/08e2aa2a01a0bffac6a94d03/w/000bb2896be42b4b40b39016/e/f3457760110fc25e618b8157)
 ### Image
-
+<img src="Images/Axlething.png" width="200">
 ### Reflection
-Adding the hole on the collar is confusing.
+I'm not completly finished because i'm having trouble with the little circle on the collar, but i'm working on it and when I finish it i'll upload it here.
+
 ---
