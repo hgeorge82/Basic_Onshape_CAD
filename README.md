@@ -95,11 +95,11 @@ I learned how to make a crcular pattern.
 ## AxleCollarBearings
 
 ### Description
-Adding the holeon the collar is confusing.
+
 ### Evidence
 
 ### Image
 
 ### Reflection
-
+Adding the hole on the collar is confusing.
 ---
