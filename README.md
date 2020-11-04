@@ -112,8 +112,9 @@ I completely finished it now. I didn't really learn anything I didn't already kn
 ### Description
 I fastened the tire, Wheel, axle, and bearings together to make the assembly easier.
 ### Evidence
-
+[Sub-Assembly](https://cvilleschools.onshape.com/documents/c58c69c8d6d8895d918db81f/w/c1529936cb9599add4ee8f41/e/afb6aae4af78f426588f972a)
+<img src="Sub-Assembly.png" width="200">
 ### Reflection
-
+I was confused at first because the wheel kept sticking out of the tire. 
 
 
