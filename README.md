@@ -87,6 +87,7 @@ I made a wheel. The outside os it measured 80mm and the inside measure both 25mm
 ### Image
 <img src="Images/Wheel.png" width="200">
 ### Reflection
+
 I learned how to make a crcular pattern.
 
 ---
@@ -105,3 +106,14 @@ I made an Axle and a Collar. The axle was made up of two circles. The inner diam
 I completely finished it now. I didn't really learn anything I didn't already know.
 
 ---
+
+## Sub-Assembly
+
+### Description
+I fastened the tire, Wheel, axle, and bearings together to make the assembly easier.
+### Evidence
+
+### Reflection
+
+
+
