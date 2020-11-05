@@ -100,8 +100,8 @@ I made an Axle and a Collar. The axle was made up of two circles. The inner diam
 ### Evidence
 [My Bearing](https://cad.onshape.com/documents/3333dbd5b50e13088eb43dfe/w/973b4241ddf20bbb4a17d47e/e/608ec84aeb689e108126585c)
 [My axle and collar](https://cvilleschools.onshape.com/documents/ad003bd1a2e53e25ac4fac93/w/c5866a19e4c597d9cc78ea50/e/d5500da69650e1c6e2897206)
-<img src="Axle and collar.png" width="200">
-<img src="Bearing.png" width="200">
+<img src="Images/Axle and collar.png" width="200">
+<img src="Images/Bearing.png" width="200">
 ### Reflection
 I completely finished it now. I didn't really learn anything I didn't already know.
 
@@ -113,7 +113,7 @@ I completely finished it now. I didn't really learn anything I didn't already kn
 I fastened the tire, Wheel, axle, and bearings together to make the assembly easier.
 ### Evidence
 [Sub-Assembly](https://cvilleschools.onshape.com/documents/c58c69c8d6d8895d918db81f/w/c1529936cb9599add4ee8f41/e/afb6aae4af78f426588f972a)
-<img src="Sub-Assembly.png" width="200">
+<img src="Images/Sub-Assembly.png" width="200">
 ### Reflection
 I was confused at first because the wheel kept sticking out of the tire. 
 
