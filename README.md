@@ -118,3 +118,15 @@ I fastened the tire, Wheel, axle, and bearings together to make the assembly eas
 I was confused at first because the wheel kept sticking out of the tire. 
 
 
+
+
+
+## Final Assembly
+
+### Description
+I assembled everything together.
+### Evidence
+[Final Assembly](https://cvilleschools.onshape.com/documents/91d735b2f56d10d12dde28d2/w/77c1bad023485b6fd8d5826b/e/b6bb2ac5511ceea684a84984)
+<img src="Images/Final Assembly.png" width="200">
+### Reflection
+This assembly was way easier than I thought it would be.
