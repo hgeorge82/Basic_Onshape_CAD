@@ -138,6 +138,10 @@ This assembly was way easier than I thought it would be.
 ### Description
 I several Dowel pins with these measurements. Diameter: 1/4, 3/8, 1/2, and 5/8 inches and Length: 1/2, 1, 2, and 1 1/2 inches. The length of the long side of the frame is 24 inches x 45 degrees and the shorter side is 12 in X 45 degrees. 
 ### Evidence
-[Dowel Pins and Frame]https://cvilleschools.onshape.com/documents/34acae6ec4b3c23f2bc3716b/w/eaeae134054076bcf4bf3b1d/e/17b575bafe5c5d1b3fe0f42a
-
-
+[Dowel Pins and Frame](https://cvilleschools.onshape.com/documents/34acae6ec4b3c23f2bc3716b/w/eaeae134054076bcf4bf3b1d/e/17b575bafe5c5d1b3fe0f42a)
+<img src="Images/Frame.png" width="200">
+<img src="Images/Dowel Pin.png" width="200">
+<img src="Images/Short Frame.png" width="200">
+<img src="Images/Long Frame.png" width="200">
+### Reflection
+This project required me to use my brain a little bit more and to think of all the possible outcomes.
